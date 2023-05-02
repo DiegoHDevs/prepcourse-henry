@@ -1,2 +1,1 @@
-# prepcourse-henry
-modulo 2 precurso henry
+este es un proyecto de prueba de como crear un repositorio y como clonarlo desde githun a mi computadora.
